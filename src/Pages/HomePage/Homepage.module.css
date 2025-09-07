@@ -1,0 +1,35 @@
+.header {
+  width: 70%;
+  margin: 20px auto;
+  position: relative;
+  top: 100;
+}
+
+.header > img {
+  margin: 50px 0px;
+}
+
+.header > p {
+  font-size: 42px;
+  font-weight: bold;
+  text-align: center;
+}
+@media only screen and (max-width: 768px) {
+  .header > p {
+    font-size: 32px;
+  }
+  .header {
+    width: 90%;
+  }
+}
+
+@media only screen and (max-width: 768px) {
+  .header > p {
+    font-size: 28px;
+  }
+
+  /* For mobile phones: */
+  .header {
+    width: 90%;
+  }
+}

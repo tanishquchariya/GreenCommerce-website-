@@ -1,0 +1,144 @@
+.btnContainer {
+  display: flex;
+  width: 100%;
+}
+
+.btn {
+  border: 1px solid black;
+  height: 50px;
+  width: 48%;
+  border-radius: 5px;
+  margin-left: 2%;
+  margin-top: 5%;
+  background-color: #fff;
+  cursor: pointer;
+}
+
+.container {
+  /* border: 1px solid black; */
+  /* height: 100vh; */
+  width: 70%;
+  margin-left: 15%;
+  display: flex;
+  justify-content: space-between;
+  margin-top: 2%;
+}
+
+.lhsContainer {
+  /* border: 1px solid black; */
+  height: 90vh;
+  width: 45%;
+  display: flex;
+  justify-content: space-between;
+}
+
+.ImageContainer {
+  /* border: 1px solid black; */
+  height: 80%;
+  width: 80%;
+}
+
+.image {
+  width: 100%;
+  height: 80%;
+}
+
+.smallImage {
+  width: 100%;
+  height: 100%;
+}
+
+.smallImageContainer {
+  /* border: 1px solid black; */
+  height: 50%;
+  width: 20%;
+}
+.smallImages {
+  /* border: 1px solid black; */
+  height: 20%;
+  width: 80%;
+  margin-top: 10%;
+}
+
+.rhsContainer {
+  /* border: 1px solid black; */
+  height: 100%;
+  width: 50%;
+}
+.rhsData {
+  border: 1px solid gray;
+  width: 90%;
+  margin-top: 2%;
+  text-align: left;
+  padding: 20px;
+  border-radius: 5px;
+}
+.rhsData p {
+  line-height: 40px;
+}
+.rating {
+  width: 70px;
+  height: 30px;
+  border: 1px solid black;
+  border-radius: 20px;
+  background-color: #23bb75;
+  color: white;
+  display: flex;
+  justify-items: center;
+  justify-content: space-around;
+}
+.review {
+  margin-top: 0%;
+  margin-left: 5%;
+}
+
+.bottomRating {
+  display: flex;
+  justify-items: center;
+  justify-content: center;
+  /* border: 1px solid black; */
+  width: 20%;
+  height: 100px;
+  margin-top: 10%;
+}
+
+.bottomRating h1 {
+  color: #23bb75;
+}
+.ratingDiagram {
+  /* border: 1px solid black; */
+  width: 80%;
+  /* height: 200px;  */
+}
+
+.star {
+  margin-top: 40%;
+  color: #23bb75;
+}
+
+.deleveryBox {
+  width: 100px;
+  height: 30px;
+  /* border: 1px solid black; */
+  border-radius: 20px;
+  background-color: #f9f9f9;
+  color: black;
+  display: flex;
+  justify-items: center;
+  justify-content: space-around;
+  margin-top: 5%;
+}
+
+.sizeBox {
+  width: 50px;
+  height: 30px;
+  /* border: 1px solid black; */
+  border-radius: 20px;
+  background-color: #f9f9f9;
+  color: black;
+  display: flex;
+  justify-items: center;
+  justify-content: space-around;
+  margin-top: 5%;
+  margin-left: 5%;
+}

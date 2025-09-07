@@ -1,0 +1,38 @@
+.desbtn {
+  width: 90%;
+  padding: 30px;
+  margin: 30px;
+  text-align: left;
+}
+
+.description {
+  width: 90%;
+  margin: 10px auto;
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+  padding: 20px;
+}
+
+.description > div > h2 {
+  font-size: 22px;
+  margin: 10px 0px;
+  font-weight: lighter;
+  color: black;
+}
+
+.description > div > p {
+  font-weight: 500;
+  margin: 10px 0px;
+  color: gray;
+}
+
+.linkSection {
+  margin: 20px 0px;
+}
+
+.linkSection > h3 {
+  color: #f43397;
+}
+
+.links > a {
+  color: #f43397;
+}
