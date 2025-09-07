@@ -1,6 +1,12 @@
+<<<<<<< HEAD
 #  Collection.
  
 -  is a Lifestyle Accessories Brand that curates stunning designs and prints it on a wide range of personal accessories. We vision to bring the things you love on the things you use.
+=======
+# OneStore Collection.
+ 
+- OneStore is a Lifestyle Accessories Brand that curates stunning designs and prints it on a wide range of personal accessories. We vision to bring the things you love on the things you use.
+>>>>>>> c19bdb479dc7be530ff6cfe2c95b9df1ba660960
 
 # Tech-Stacks Used :
  - HTML 
